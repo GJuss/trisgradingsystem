@@ -7,8 +7,8 @@ export default function GetStarted() {
                 <img src={TrisLogo} alt="Tris Logo" className='rounded-full bg-white opacity-60 h-50 w-50' />
             </div>
             
-            <main className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-black">
-                <header>
+            <main className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-black h-screen">
+                <header className=' '>
                     <h1>TRIS | Get Started</h1>
                 </header>
 
